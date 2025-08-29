@@ -1,3 +1,5 @@
 EmailApp/obj/
 EmailApp/bin/
+EmailAppWeb/bin/
+EmailAppWeb/obj/
 .DS_Store
