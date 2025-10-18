@@ -4,3 +4,4 @@ EmailAppWeb/bin/
 EmailAppWeb/obj/
 EmailAppWeb/.vscode/
 .DS_Store
+.vscode/
