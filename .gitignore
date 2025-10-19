@@ -5,3 +5,6 @@ EmailAppWeb/obj/
 EmailAppWeb/.vscode/
 .DS_Store
 .vscode/
+__blobstorage__/
+__queuestorage__/
+__azurite*
