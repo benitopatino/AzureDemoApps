@@ -8,3 +8,5 @@ EmailAppWeb/.vscode/
 __blobstorage__/
 __queuestorage__/
 __azurite*
+storageexample/obj/
+storageexample/bin/
