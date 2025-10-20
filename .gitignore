@@ -10,3 +10,4 @@ __queuestorage__/
 __azurite*
 storageexample/obj/
 storageexample/bin/
+storageexample/data/
