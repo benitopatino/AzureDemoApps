@@ -11,3 +11,5 @@ __azurite*
 storageexample/obj/
 storageexample/bin/
 storageexample/data/
+CosmosExample/obj/
+CosmosExample/bin/
